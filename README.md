@@ -64,11 +64,11 @@ I am a fourth year Computer Science student at UCLA graduating in June 2025. I l
 ## Statistics
 <div class="flex" style="padding: 16px">
   <img
-  height="250"
+  height="200"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=parky-sood&bg_color=ffffff&text_color=000000&icon_color=000000&title_color=800080&rank_icon=github"
   />
   <img
-    height="250"
+    height="200"
     src="https://github-readme-stats.vercel.app/api?username=parky-sood&show_icons=true&bg_color=ffffff&text_color=000000&icon_color=000000&title_color=800080&rank_icon=github"
   />
 
