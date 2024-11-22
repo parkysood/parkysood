@@ -16,6 +16,11 @@
       <img src="https://img.shields.io/badge/-Website-199064?&style=for-the-badge&logoColor=white" />
     </a>
   </span>
+  <span style="float: right">
+    <a href="https://substack.com/@theparkster" target="_blank">
+      <img src="https://img.shields.io/badge/-Substack-FFA500?&style=for-the-badge&logoColor=white" />
+    </a>
+  </span>
 </div>
 
 I am a fourth year Computer Science student at UCLA graduating in June 2025. I love to get creative and build full stack web applications. My tech stack includes TypeScript, React, Node.js, Express.js, SQL, and NoSQL. Recently, I have also been diving into AI and Machine Learning projects as a Software Engineering Resident at Headstarter! I am building over 14 full stack and AI projects. Currently, I am working on an AI Agent to help improve quality and content on pull requests. Follow me to stay tuned for my projects!
