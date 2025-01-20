@@ -2,7 +2,7 @@
 
 Hello! I am a fourth year Computer Science student at UCLA graduating in June 2025. I am a passionate full stack developer and love to create software solutions for my clients. I am skilled in web app development and machine learning technologies. My tech stack includes ReactJS, Node.js, JavaScript, PostgreSQL, and Tailwind CSS. Currently, I am building a rating platform for teaching assistants at colleges. Stay tuned for more updates!
 
-Here is a mmore comprehensive list of my skills!
+Here is a more comprehensive list of my skills!
 
 ## Languages
 
