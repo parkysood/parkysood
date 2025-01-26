@@ -1,4 +1,4 @@
-<img src="github-banner.png" align="center" style="width:100%; max-width:100%;"/>
+<img src="banner.png" align="center" style="width:100%; max-width:100%;"/>
 
 Hello! I am a fourth year Computer Science student at UCLA graduating in June 2025. I am a passionate full stack developer and love to create software solutions for my clients. I am skilled in web app development and machine learning technologies. My tech stack includes ReactJS, Node.js, JavaScript, PostgreSQL, and Tailwind CSS. Currently, I am building a rating platform for teaching assistants at colleges to help create more transparency in the behavioral expectations of students and teaching assistants. Stay tuned for updates!
 
