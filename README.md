@@ -1,4 +1,4 @@
-<img src="banner.png" align="center" style="width:100%; max-width:100%;"/>
+<!-- <img src="banner.png" align="center" style="width:100%; max-width:100%;"/> -->
 
 Hello! I am a fourth year Computer Science student at UCLA graduating in June 2025. I am a passionate full stack developer and love to create software solutions for my clients. I am skilled in web app development and machine learning technologies. My tech stack includes ReactJS, Node.js, JavaScript, PostgreSQL, and Tailwind CSS. Currently, I am building a rating platform for teaching assistants at colleges to help create more transparency in the behavioral expectations of students and teaching assistants. Stay tuned for updates!
 
@@ -16,7 +16,7 @@ Here is a more comprehensive list of my skills!
 <div align="center">
   <img
     height=225
-    src="https://github-readme-stats.vercel.app/api?username=parikshit-sood&show_icons=true&bg_color=1c1c22&text_color=ffffff&icon_color=00ff99&title_color=00ff99&rank_icon=github&rank_color=00ff99&border_color=00e187"
+    src="https://github-readme-stats.vercel.app/api?username=parky-sood&show_icons=true&bg_color=1c1c22&text_color=ffffff&icon_color=00ff99&title_color=00ff99&rank_icon=github&rank_color=00ff99&border_color=00e187"
   />
 
 
